@@ -118,7 +118,7 @@ chat_interface = gr.ChatInterface(
         ["implement snake game using pygame"],
         ["Can you explain briefly to me what is the Python programming language?"],
         ["write a program to find the factorial of a number"],
-    ],
+    ], 
 )
 
 with gr.Blocks(css="style.css") as demo:
